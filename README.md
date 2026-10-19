@@ -1,27 +1,42 @@
-# maelsoucaze/flarum-ext-french (Archive)
+# flarum-lang-french (Archive)
 
-> **Read-only archive of released versions of maelsoucaze/flarum-ext-french.** Not for installation: use [Packagist](https://packagist.org/packages/maelsoucaze/flarum-ext-french) or the [upstream repository](https://github.com/flarum-lang/french).
+> **Read-only archive of released versions for flarum-lang/french, maelsoucaze/flarum-ext-french, milescellar/flarum-ext-french, milescellar/lang-french, qiaeru/lang-french.** Not for installation: use Packagist or the [upstream repository](https://github.com/flarum-lang/french).
 
-**92** versions archived · Latest: [`5.0.15`](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v5.0.15) · License: `MIT` · Flarum: `^2.0`
+**92** versions archived · Latest: [`4.29.6`](https://github.com/flarchive/flarum-lang-french/tree/archive/v4.29.6) · License: `MIT` · Flarum: `^1.8`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`flarum-lang/french`](https://packagist.org/packages/flarum-lang/french)
+- [`maelsoucaze/flarum-ext-french`](https://packagist.org/packages/maelsoucaze/flarum-ext-french)
+- [`milescellar/flarum-ext-french`](https://packagist.org/packages/milescellar/flarum-ext-french)
+- [`milescellar/lang-french`](https://packagist.org/packages/milescellar/lang-french)
+- [`qiaeru/lang-french`](https://packagist.org/packages/qiaeru/lang-french)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `4.29.6` | 2026-09-30 | `^1.8` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v4.29.6) |
-| `5.0.13` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v5.0.13) |
-| `5.0.14` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v5.0.14) |
-| `v1.0.1` | 2015-11-03 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.0.1) |
-| `v1.0.2` | 2015-11-05 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.0.2) |
-| `v1.0.3` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.0.3) |
-| `v1.0.4` | 2016-10-20 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.0.4) |
-| `v1.0.5` | 2016-10-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.0.5) |
-| `v1.0.6` | 2016-11-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.0.6) |
-| `v1.1.0` | 2017-07-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tree/archive/v1.1.0) |
+| `4.29.6` | 2026-09-30 | `^1.8` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v4.29.6) |
+| `5.0.13` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.13) |
+| `v1.0.1` | 2015-11-03 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.0.1) |
+| `v1.0.2` | 2015-11-05 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.0.2) |
+| `v1.0.3` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.0.3) |
+| `v1.0.4` | 2016-10-20 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.0.4) |
+| `v1.0.5` | 2016-10-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.0.5) |
+| `v1.0.6` | 2016-11-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.0.6) |
+| `v1.1.0` | 2017-07-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.1.0) |
+| `v1.10.0` | 2021-03-15 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v1.10.0) |
 
-[View all 92 versions](https://github.com/flarchive/maelsoucaze-flarum-ext-french/tags)
+[View all 92 versions](https://github.com/flarchive/flarum-lang-french/tags)
 
-Catalog entry: [packages/maelsoucaze-flarum-ext-french.json](https://github.com/flarchive/archive-index/blob/main/packages/maelsoucaze-flarum-ext-french.json)
+## Catalog entries
+
+- [`flarum-lang/french`](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-french.json)
+- [`maelsoucaze/flarum-ext-french`](https://github.com/flarchive/archive-index/blob/main/packages/maelsoucaze-flarum-ext-french.json)
+- [`milescellar/flarum-ext-french`](https://github.com/flarchive/archive-index/blob/main/packages/milescellar-flarum-ext-french.json)
+- [`milescellar/lang-french`](https://github.com/flarchive/archive-index/blob/main/packages/milescellar-lang-french.json)
+- [`qiaeru/lang-french`](https://github.com/flarchive/archive-index/blob/main/packages/qiaeru-lang-french.json)
 
 ## About this archive
 
