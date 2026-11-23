@@ -1,25 +1,14 @@
-# milescellar/lang-french (Archive)
+# qiaeru/lang-french (Archive)
 
-> **Read-only archive of released versions of milescellar/lang-french.** Not for installation: use [Packagist](https://packagist.org/packages/milescellar/lang-french) or the [upstream repository](https://github.com/flarum-lang/french).
+> **Read-only archive of released versions of qiaeru/lang-french.** Not for installation: use [Packagist](https://packagist.org/packages/qiaeru/lang-french) or the [upstream repository](https://github.com/flarum-lang/french).
 
-**99** versions archived · Latest: [`5.0.20`](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.20) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`5.0.20`](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.20) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `4.29.6` | 2026-09-30 | `^1.8` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v4.29.6) |
-| `4.29.7` | 2026-10-24 | `^1.8` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v4.29.7) |
-| `5.0.13` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.13) |
-| `5.0.14` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.14) |
-| `5.0.15` | 2026-10-18 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.15) |
-| `5.0.16` | 2026-10-23 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.16) |
-| `5.0.17` | 2026-10-31 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.17) |
-| `5.0.18` | 2026-11-09 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.18) |
-| `5.0.19` | 2026-11-18 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.19) |
-| `5.0.20` | 2026-11-21 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-french/tree/archive/v5.0.20) |
-
-[View all 99 versions](https://github.com/flarchive/flarum-lang-french/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/flarum-lang-french.json](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-french.json)
 
